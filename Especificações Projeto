@@ -1,0 +1,14 @@
+Restaurante:
+- Criar cardápio
+- Adicionar itens novos no cardápio
+- Mostrar cardápio
+- Verificar as mesas
+- Verificar pedidos
+- Adicionar pedidos
+- Fechar conta
+
+26/11/2020 - Aplicação no console JS.
+
+
+
+Usuário -> Requisição (URL: localhost:3000/cardapio) -> Servidor (Processa) -> Resposta (status) -> Usuário
