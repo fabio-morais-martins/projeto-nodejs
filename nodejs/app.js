@@ -6,6 +6,8 @@ const mesaRoute = require('./routes/mesa');
 
 const app = express();
 
+
+
 app.use(bodyParser.json());
 app.use('/', homeRoute.routes);
 app.use('/cardapio', cardapioRoute.routes);
